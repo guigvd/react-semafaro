@@ -1,0 +1,10 @@
+body {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(120deg, rgb(174, 174, 174), rgb(154, 2, 189));
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
