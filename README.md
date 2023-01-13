@@ -1,4 +1,4 @@
-<h1 align="center">Semáfaro</h1> 
+<h1 align="center">traffic light</h1> 
 
 - Description:
 
